@@ -1,5 +1,3 @@
-import java.io.*
-
 fun main() {
     val test1 = "bvwbjplbgvbhsrlpgdmjqwftvncz"
     val test2 = "nppdvjthqldpwncqszvftbrmjlhg"
